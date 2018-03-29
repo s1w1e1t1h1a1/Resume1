@@ -1,8 +1,48 @@
 {
-  "left":{
+  "basics":{
     "photo":"2.png",
     "name":"p.s.swetha",
     "email":"sharoffswetha123@gmail.com",
     "phone":"9441653024"
+  },
+  "education":[
+    {
+      "course":"B.tech(computer science and engineering)",
+      "college":[
+        "ravindra college of engineering for women",
+        "2015-2019",
+        "70%"
+      ]
+    },
+    {
+      "course":"intermediate(mpc)",
+      "college":[
+        "sri gayathri",
+        "2013-2015",
+        "90%"
+      ]
+    },
+    {
+      "course":"ssc",
+      "college":[
+        "good shepherd english school",
+        "2013",
+        "93%"
+      ]
+    }
+  ],
+  "skills":[
+    {
+      "name":"operating sysytems",
+      "value":"windows,linux"
+    },
+    {
+      "name":"programming languages",
+      "value":"c,c++,java"
+    },
+  {
+    "name":"webdevelopment",
+    "value":"HTML,Pyton"
   }
+  ]
 }
